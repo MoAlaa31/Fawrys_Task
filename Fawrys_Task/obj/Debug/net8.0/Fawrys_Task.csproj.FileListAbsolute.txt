@@ -1,0 +1,14 @@
+E:\Projects\Fawrys_Task\Fawrys_Task\bin\Debug\net8.0\Fawrys_Task.exe
+E:\Projects\Fawrys_Task\Fawrys_Task\bin\Debug\net8.0\Fawrys_Task.deps.json
+E:\Projects\Fawrys_Task\Fawrys_Task\bin\Debug\net8.0\Fawrys_Task.runtimeconfig.json
+E:\Projects\Fawrys_Task\Fawrys_Task\bin\Debug\net8.0\Fawrys_Task.dll
+E:\Projects\Fawrys_Task\Fawrys_Task\bin\Debug\net8.0\Fawrys_Task.pdb
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.AssemblyInfoInputs.cache
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.AssemblyInfo.cs
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.csproj.CoreCompileInputs.cache
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.dll
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\refint\Fawrys_Task.dll
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.pdb
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.genruntimeconfig.cache
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\ref\Fawrys_Task.dll
