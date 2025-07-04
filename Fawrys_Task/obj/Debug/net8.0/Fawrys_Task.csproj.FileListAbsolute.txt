@@ -12,3 +12,4 @@ E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\refint\Fawrys_Task.dll
 E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.pdb
 E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.genruntimeconfig.cache
 E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\ref\Fawrys_Task.dll
+E:\Projects\Fawrys_Task\Fawrys_Task\obj\Debug\net8.0\Fawrys_Task.sourcelink.json

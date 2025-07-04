@@ -50,6 +50,7 @@ namespace Fawrys_Task
             Console.WriteLine($"Amount\t\t{amount}");
             if (ValidateCustomer(customer, amount))
             {
+                Console.WriteLine("Transaction is Done Successfully");
                 customer.Balance -= amount;
                 Console.WriteLine($"Customer's current balance: {customer.Balance}");
             }
@@ -75,7 +76,7 @@ namespace Fawrys_Task
             {
                 if (customer.Balance < amount)
                 {
-                    Console.WriteLine($"Customer's balance is insufficient: {customer.Balance}.");
+                    Console.WriteLine($"Customer's balance is insufficient: {customer.Balance}!!!");
                     return false;
                 }
                 return true;
